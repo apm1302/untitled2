@@ -8,5 +8,8 @@ object HelloWorld {
   def main(args: Array[String]): Unit = {
     hello()
   }
+  def add(a: Int, b: Int): Int = {
+    a + b
+  }
 
 }
