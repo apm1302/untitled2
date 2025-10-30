@@ -3,7 +3,6 @@
   <component name="ScalaCompilerConfiguration">
     <profile name="Maven 1" modules="untitled2">
       <parameters>
-        <parameter value="-Xtarget:11" />
         <parameter value="-release:11" />
       </parameters>
     </profile>
