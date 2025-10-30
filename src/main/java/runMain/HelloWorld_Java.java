@@ -5,5 +5,6 @@ public class HelloWorld_Java {
         System.out.println("Hello, World! from Java");
         HelloWorld_Scala.view();
         HelloWorld_KotlinKt.hello();
+        System.out.println("hi");
     }
 }
