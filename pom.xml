@@ -40,7 +40,6 @@
                 <configuration>
                     <scalaVersion>3.5.2</scalaVersion>
                     <args>
-                        <arg>-Xtarget:11</arg>
                         <arg>-release:11</arg>
                     </args>
                 </configuration>
