@@ -2,9 +2,8 @@ package runMain;
 
 public class HelloWorld_Java {
     public static void main(String[] args) {
-        System.out.println("Hello, World! from Java");
-        HelloWorld_Scala.view();
+        System.out.println("Hello from Java");
         HelloWorld_KotlinKt.hello();
-        System.out.println("hi");
+        HelloWorld_Scala.view();
     }
 }

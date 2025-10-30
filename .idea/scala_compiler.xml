@@ -5,7 +5,6 @@
       <parameters>
         <parameter value="-Xtarget:11" />
         <parameter value="-release:11" />
-        <parameter value="-Xlint:-options" />
       </parameters>
     </profile>
   </component>

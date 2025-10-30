@@ -42,7 +42,6 @@
                     <args>
                         <arg>-Xtarget:11</arg>
                         <arg>-release:11</arg>
-                        <arg>-Xlint:-options</arg>
                     </args>
                 </configuration>
                 <executions>
