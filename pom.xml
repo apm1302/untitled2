@@ -55,7 +55,7 @@
                 <executions>
                     <execution>
                         <id>compile-kotlin</id>
-                        <phase>process-sources</phase>
+                        <phase>compile</phase>
                         <goals>
                             <goal>compile</goal>
                         </goals>
@@ -128,8 +128,8 @@
         <!-- Scala Dependency -->
         <dependency>
             <groupId>org.scala-lang</groupId>
-            <artifactId>scala-library</artifactId>
-            <version>2.13.12</version>
+            <artifactId>scala3-library_3</artifactId>
+            <version>3.4.1</version>
         </dependency>
 
         <!-- JUnit -->
